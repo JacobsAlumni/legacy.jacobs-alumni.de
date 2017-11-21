@@ -1,0 +1,18 @@
+---
+  layout: plainarticle
+  permalink: '/alumni-projects/'
+  title: Alumni Projects
+---
+
+
+<p>
+  Our association is all about enabling the individual alumni and empowering them to contribute towards our network as well as our Alma Mater. With the commitment to support the university in its educational mission we have various Alumni Projects that promote the exchange and interaction between alumni themselves, their Alma Mater as well as current students.
+</p>
+
+<p>
+  Find out more about our current channels of engagement and see where you can make a difference. Your contribution matters!
+</p>
+
+{% for project in site.projects %}
+  {% include project.html project=project %}
+{% endfor %}

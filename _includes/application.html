@@ -1,0 +1,17 @@
+<div class="uk-flex uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
+  <div class="uk-flex-last@s uk-flex-middle uk-card-media-right uk-cover-container">
+      <div class="uk-width-1-1">
+        {% include iframe.html src=include.application.videoLink %}
+      </div>
+  </div>
+  <div>
+    <div class="uk-card-body">
+      <h3 class="uk-card-title">{{ include.application.applicantName }}</h3>
+      <p>Applicant for {{ include.application.position }}</p>
+      {{ include.application.description }}
+      <figure>
+        <img src="{{include.application.pictureLink}}" style="height: 12.944rem; width: auto; " />
+      </figure>
+    </div>
+  </div>
+</div>

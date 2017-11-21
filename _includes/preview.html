@@ -1,0 +1,27 @@
+{% comment %}
+article: Page representing the article
+{% endcomment %}
+<div>
+  <div class="uk-card uk-card-default">
+    {% if include.article.titleImage %}
+    <div class="uk-card-media-top">
+       <a href="{{ include.article.url }}">
+        <img class="uk-width-1-1" src="{{ include.article.titleImage }}" alt="{{ include.article.title }}" />
+      </Link>
+    </div>
+    {% endif %}
+    <div class="uk-card-body">
+      <h3 class="uk-card-title"><a href="{{ include.article.url }}">{{ include.article.title }}</a></h3>
+      <p class="uk-article-meta">
+        By {{ include.article.author }} | {{ include.article.date }}
+      </p>
+
+      <p>
+        {{ include.article.preview }} <a class="uk-button uk-button-text" href="{{ include.article.url }}">[…]</a>
+      </p>
+      <p>
+        <a class="uk-button uk-button-text" href="{{ include.article.url }}">Read more…</a>
+      </p>
+    </div>
+  </div>
+</div>

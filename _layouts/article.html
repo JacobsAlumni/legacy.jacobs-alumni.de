@@ -1,0 +1,23 @@
+---
+layout: plainarticle
+---
+
+{% comment %}
+title: article title
+titleImage: Image of article, if any
+author: full name of author
+date: date of article
+preview: A sentence previewing the article
+{% endcomment %}
+
+<p class="uk-article-meta">
+  By {{ page.author }} | {{ page.date }}
+</p>
+
+{% if page.titleImage %}
+  <figure class="uk-width-1-1">
+    <img class="uk-width-1-1" src="{{ page.titleImage }}" alt="{{ page.title }}" />
+  </figure>
+{% endif %}
+
+{{ content }}

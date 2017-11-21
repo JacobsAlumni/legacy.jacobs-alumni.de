@@ -1,0 +1,12 @@
+---
+layout: plainarticle
+title: Newsletter
+permalink: '/newsletter/'
+---
+
+<figure>
+  <img src="/media/what-we-do/newsletter_logo_V2.jpg" />
+</figure>
+
+{% assign letters = site.newsletter | sort: "path" | reverse %}
+{% include tabs.html id='newsletter-tabs' prefix="Alumni Newsletter " pages=letters %}

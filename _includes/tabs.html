@@ -1,0 +1,28 @@
+{% comment %}
+pages: A set of pages to include. Needs to have title and content
+id: an identifier for this tabcontrol
+{% endcomment %}
+
+<div class="uk-grid uk-grid-small" uk-grid>
+  <div class="uk-width-auto@m">
+    <div>
+      <ul class="uk-tab uk-tab-left" uk-tab="connect: #{{include.id}}">
+        {% for page in include.pages %}
+          <li><a href="#">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="uk-width-expand@m">
+    <ul id="{{include.id}}" class="uk-switcher" uk-switcher="animation: uk-animation-fade">
+      {% for page in include.pages %}
+        <li>
+          <article class="uk-article">
+            <h1 class="uk-article-title">{% if include.prefix %}{{include.prefix}}{% endif %}{{page.title}}</h1>
+            {{ page.content }}
+          </article>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

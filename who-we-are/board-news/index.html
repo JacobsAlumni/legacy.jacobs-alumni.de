@@ -1,0 +1,13 @@
+---
+layout: plainarticle
+title: Board News
+permalink: /board-news/
+---
+
+
+<div class="uk-grid uk-margin-medium-bottom uk-child-width-1-2@m" uk-grid>
+  {% assign posts = site.pages | where: "layout", "boardnews" | sort: "path" %}
+  {% for article in posts reversed %}
+    {% include preview.html article=article %}
+  {% endfor %}
+</div>

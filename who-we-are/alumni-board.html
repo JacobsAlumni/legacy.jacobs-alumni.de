@@ -1,0 +1,24 @@
+---
+layout: plainarticle
+permalink: /alumni-board/
+title: Jacobs Alumni Association Board
+---
+
+<p class="uk-text-lead">
+  The board is composed of 10 members and 3 advisors. The board acts as a bridge between the university, alumni and our community to facilitate networking and influence in the decision making process at Jacobs.
+</p>
+
+<h2></h2>
+<div class="uk-grid uk-grid-small uk-child-width-1-2@s uk-child-width-1-3@m " uk-grid>
+  {% for member in site.data.board %}
+    {% include member.html member=member %}
+  {% endfor %}
+</div>
+
+<h2>Associate Advisors to the Board</h2>
+<div class="uk-grid uk-grid-small uk-child-width-1-2@s uk-child-width-1-3@m " uk-grid>
+  {% for advisor in site.data.advisors %}
+    {% include member.html member=advisor %}
+  {% endfor %}
+</div>
+</article>

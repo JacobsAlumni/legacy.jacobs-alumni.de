@@ -1,0 +1,16 @@
+---
+layout: plainarticle
+title: Campus News
+permalink: '/campus-news/'
+---
+
+<p class="uk-text-lead">
+  Part of the mission of the Alumni Board is keeping the bonds between the University and Alumni Community strong. Here you can find the most recent news from Jacobs University, such as Leadership Letters and various events hosted on campus.
+</p>
+
+<div class="uk-grid uk-margin-medium-bottom uk-child-width-1-2@m" uk-grid>
+  {% assign posts = site.pages | where: "layout", "campusnews" | sort: "path" %}
+  {% for article in posts reversed %}
+    {% include preview.html article=article %}
+  {% endfor %}
+</div>

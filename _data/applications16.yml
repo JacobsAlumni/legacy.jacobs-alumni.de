@@ -1,0 +1,41 @@
+anne:
+  applicantName: 'Anne Valtink'
+  position: 'President'
+  description: '<p><a href="https://drive.google.com/a/jacobs-alumni.de/file/d/0B5YL0usedcxxX051S21Fa1Q0T252Y1l1RmM5b1MzbG5pUGl3/view?usp=sharing">Read her CV</a>.</p>'
+  pictureLink: '/media/who-we-are/elections/2016/1_Anne2-270x375-216x300.jpg'
+  videoLink: 'https://drive.google.com/a/jacobs-alumni.de/file/d/0B5YL0usedcxxVVVyMDZ1ODl1cGc/preview'
+
+stefanR:
+  applicantName: 'Stefan Rustler'
+  position: 'Vice-President'
+  description: '<p><a href="https://ch.linkedin.com/in/stefan-rustler-38ab6135" target="_blank">See his LinkedIn profile.</a></p>'
+  pictureLink: '/media/who-we-are/elections/2016/StefanRustler-233x300.jpg'
+  videoLink: 'https://drive.google.com/a/jacobs-alumni.de/file/d/0B12tib4CBut4ODJLS0hCUHFXVWs/preview'
+
+razvan:
+  applicantName: 'Razvan Barabas'
+  position: 'Secretary'
+  description: '<p><a href="https://www.linkedin.com/in/razvanbarabas" target="_blank">See his LinkedIn profile.</a></p>'
+  pictureLink: '/media/who-we-are/elections/2016/Razvan_Barabas.jpg'
+  videoLink: 'https://drive.google.com/a/jacobs-alumni.de/file/d/0B5YL0usedcxxc2JUQnZLRWZpRE0/preview'
+
+stefanK:
+  applicantName: 'Stefan Kuzmanovski'
+  position: 'Treasurer'
+  description: '<p><a href="https://www.linkedin.com/in/stefankuzmanovski" target="_blank">See his LinkedIn profile.</a></p>'
+  pictureLink: '/media/who-we-are/elections/2016/Stefan_Kuzmanovski.jpg'
+  videoLink: 'https://drive.google.com/a/jacobs-alumni.de/file/d/0B4xhB110vnKAb280SWdQa2I3WEk/preview'
+
+annalena:
+  applicantName: 'Anna-Lena Schindl'
+  position: 'Assessor Network Development'
+  description: '<p><a href="https://www.linkedin.com/in/aschindl" target="_blank">See her LinkedIn profile.</a></p>'
+  pictureLink: '/media/who-we-are/elections/2016/Anna-LenaSchindl.jpg'
+  videoLink: 'https://drive.google.com/a/jacobs-alumni.de/file/d/0B5YL0usedcxxRHFpSmJTUmN0RWc/preview'
+
+frederique:
+  applicantName: 'Frédérique Mittelstaedt'
+  position: 'Assessor IT Resources'
+  description: '<p><a href="https://www.linkedin.com/in/fmittelstaedt" target="_blank">See his LinkedIn profile.</a></p>'
+  pictureLink: '/media/who-we-are/elections/2016/Frederique_Mittelstaedt.jpg'
+  videoLink: 'https://drive.google.com/a/jacobs-alumni.de/file/d/0B5YL0usedcxxT1hSZFA5Y2lqQmM/preview'

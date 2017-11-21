@@ -1,0 +1,31 @@
+title: Jacobs Alumni Association
+encoding: utf-8
+
+description: The Jacobs Alumni Association is the growing network of former Jacobs University students and friends.
+keywords: Jacobs Alumni Association,Jacobs University Bremen,Jacobs University,Alumni Association,Jacobs,Alumni,Association,Bremen
+
+exclude:
+    - 'src/*'
+    - 'what-we-do/newsletter/posts'
+    - '*/README.md'
+
+collections:
+  - newsletter
+  - generation_fund
+  - projects
+      
+# Settings for compressing everything
+compress_html:
+  clippings: []
+  comments: ["<!-- ", " -->"]
+
+# default values -- the one for all **must** be first 
+defaults:
+  -
+    scope:
+      path: "" 
+    values:
+      layout: application
+      menu_hidden: false
+      menu_order: 100
+      external: false

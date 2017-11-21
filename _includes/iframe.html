@@ -1,0 +1,10 @@
+{% comment %}
+format: padding bottom to give, i.e. height of the element, in percent
+src: Source to include
+{% endcomment %}
+
+
+<div class="embed-container" style="padding-bottom: {% if include.format %}{{include.format}}{% else %}56.25{% endif %}%; ">
+  <iframe src="{{include.src}}" frameborder="0" allowfullscreen="allowfullscreen">
+  </iframe>
+</div>
