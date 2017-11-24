@@ -1,7 +1,7 @@
 -
   name: Anne Valtink
   role: President
-  photoUrl: /media/who-we-are/board/Anne_Valtink-198x300.jpg
+  photoUrl: who-we-are/board/Anne_Valtink-198x300.jpg
   meta: 
     email: avaltink@jacobs-alumni.de
   description: 
@@ -9,7 +9,7 @@
 -
   name: Stefan Rustler
   role: Vice President
-  photoUrl: /media/who-we-are/board/StefanRustler-233x300.jpg
+  photoUrl: who-we-are/board/StefanRustler-233x300.jpg
   meta:
     email: srustler@jacobs-alumni.de
     facebook: https://www.facebook.com/stefan.rustler
@@ -20,7 +20,7 @@
 -
   name: Răzvan Barabaș
   role: Secretary
-  photoUrl: /media/who-we-are/board/16c6116.jpg
+  photoUrl: who-we-are/board/16c6116.jpg
   meta:
     email: srustler@jacobs-alumni.de
     facebook: https://www.facebook.com/stefan.rustler
@@ -31,7 +31,7 @@
 -
   name: Max Lohmann
   role: Event Management
-  photoUrl: /media/who-we-are/board/Max_Lohmann-300x205.png
+  photoUrl: who-we-are/board/Max_Lohmann-300x205.png
   meta:
     email: mlohmann@jacobs-alumni.de
   description: 
@@ -39,7 +39,7 @@
 - 
   name: Elena Isac
   role: Special Projects
-  photoUrl: /media/who-we-are/board/alumni_board_ElenaIsac1-e1428571775592-300x199.jpg
+  photoUrl: who-we-are/board/alumni_board_ElenaIsac1-e1428571775592-300x199.jpg
   meta:
     email: eisac@jacobs-alumni.de
     facebook: http://facebook.com/ele.isac
@@ -51,7 +51,7 @@
 -
   name: Lida-Maria Lottko
   role: PR and Communications
-  photoUrl: /media/who-we-are/board/Profile-picture-300x200.jpg
+  photoUrl: who-we-are/board/Profile-picture-300x200.jpg
   meta:
     email: llottko@jacobs-alumni.de
     facebook: https://www.facebook.com/lidamaria.lottko
@@ -61,7 +61,7 @@
 - 
   name: Anna-Lena Schindl
   role: Network Development
-  photoUrl: /media/who-we-are/board/Anna-LenaSchindl-242x300.jpg
+  photoUrl: who-we-are/board/Anna-LenaSchindl-242x300.jpg
   meta:
     email: aschindl@jacobs-alumni.de
     facebook: https://www.facebook.com/annalena.schindl
@@ -72,7 +72,7 @@
 -
   name: Stefan Kuzmanovski
   role: Finances
-  photoUrl: /media/who-we-are/board/stefan-linkedin-pic-300x300.jpg
+  photoUrl: who-we-are/board/stefan-linkedin-pic-300x300.jpg
   meta:
     email: skuzmanovski@jacobs-alumni.de
     facebook: https://www.facebook.com/stefan.kuzmanovski92
@@ -82,7 +82,7 @@
 -
   name: Frédérique Mittelstaedt
   role: Information Technology
-  photoUrl: /media/who-we-are/board/fred.jpg
+  photoUrl: who-we-are/board/fred.jpg
   meta:
     email: fred@jacobs-alumni.de
     facebook: https://www.facebook.com/gfmio

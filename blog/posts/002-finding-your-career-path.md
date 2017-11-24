@@ -4,7 +4,7 @@
   date: December 13th, 2014
   author: Victoria Rivera Marrero
   permalink: /blog/finding-your-career-path
-  titleImage: /media/blog/02-finding-your-career-path-title.jpg
+  titleImage: blog/02-finding-your-career-path-title.jpg
   preview: You don’t have to be a rocket scientist to know that deciding what you want to do for the rest of your life is no cakewalk. It is that big question that seems to plague us throughout and especially after college.
 ---
 
@@ -31,7 +31,6 @@ Lastly, do not underestimate the power of casual conversation in your quest. Tal
 Remember when watching TV was the worst thing you could do? Thank you smartphones for making the TV less problematic than texting. Use this to your advantage people. Everyone has favorite shows; learn from them. I don’t just mean educational shows I am talking about all of it. When I applied to Jacobs my essay was about wanting to be like Gill Grissom from CSI. I admired him being calm cool and collected when all you wanted to do was slug the guy they were after (might be a reason I ended up in Mercator). Plus you get a look at careers you might not have thought of: fashion, nail design, tattoo artistry, costume designer (Comic-Con) etc.
 
 In conclusion, these may seem sort of random but they have helped me the most. I have realized that I am not going to limit myself to one career. I do not work that way. I’ve taken all those career personality tests and they did not help much. I have since decided what I want to be: a Veterinarian, and maybe specialize as a surgeon.I do after all enjoy cutting and sewing.  Currently, I am enrolling in a community college to finish my pre-requisites. I plan to apply for vet schools in the Caribbean and EU.
-
 
 Had I followed the personality tests alone I wouldn’t be anywhere near the thought of being a vet. I also love performing and I have decided to keep that going. No reason you can’t do it all (you just might not be able to do it all at once). Look at [Hans Walters](http://www.nytimes.com/2011/01/20/nyregion/20experience.html?_r=0), Marine Biologist at New York Aquarium, who was part of a heavy metal band for 9 years.
 

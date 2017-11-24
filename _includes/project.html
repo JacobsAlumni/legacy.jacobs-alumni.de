@@ -8,7 +8,7 @@
     <div class="uk-width-1-3@m">
       {% for contact in include.project.contacts %}
         <figure class="uk-margin-small-right" style="display: inline-block;">
-          <img src="{{ contact.image }}" style="height: 9.708rem;">
+          <img src="{{ site.mediaUrl }}{{ contact.image }}" style="height: 9.708rem;">
           <figcaption>{{ contact.name }}</figcaption>
         </figure>
       {% endfor %}

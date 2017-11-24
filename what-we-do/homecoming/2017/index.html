@@ -5,7 +5,7 @@
 ---
 
 <figure>
-  <img src="/media/what-we-do/homecoming/2017/banner.jpg" alt="Homecoming 2017 banner" />
+  <img src="{{ site.mediaUrl }}what-we-do/homecoming/2017/banner.jpg" alt="Homecoming 2017 banner" />
 </figure>
 
 <h2>Welcome</h2>
@@ -19,7 +19,7 @@
 <h2>Ticket sales</h2>
 
 <p>
-  The ticket sales will be opened from August 11th onwards. There are three ticket options – from the full package to the basic ticket for just a few Euros. Unfortunately, there will be no rooms to stay on campus this year because of a very big incoming Class of 2020. <strong>To facilitate your stay in Bremen, we have blocked a number of rooms at local hotels in Bremen Nord or downtown.</strong> You can find all information <a target="_blank" href="/media/what-we-do/homecoming/2017/HC 2017 - Hotels Overview.pdf">here</a>.
+  The ticket sales will be opened from August 11th onwards. There are three ticket options – from the full package to the basic ticket for just a few Euros. Unfortunately, there will be no rooms to stay on campus this year because of a very big incoming Class of 2020. <strong>To facilitate your stay in Bremen, we have blocked a number of rooms at local hotels in Bremen Nord or downtown.</strong> You can find all information <a target="_blank" href="{{ site.mediaUrl }}what-we-do/homecoming/2017/HC 2017 - Hotels Overview.pdf">here</a>.
 </p>
 
 <h2>Career Symposium</h2>
@@ -29,14 +29,15 @@
 
 <h2>Agenda</h2>
 
-{% include iframe.html format="128.7001287001287" src="/media/what-we-do/homecoming/2017/Agenda_Homecoming2017_vF.pdf" %}
+{% capture src%}{{ site.mediaUrl }}what-we-do/homecoming/2017/Agenda_Homecoming2017_vF.pdf"{% endcapture %}
+{% include iframe.html format="128.7001287001287" src=src %}
 <p>
-  In case you can’t see the embedded PDF, you can open it by clicking <a href="/media/what-we-do/homecoming/2017/Agenda_Homecoming2017_vF.pdf" target="_blank">this link</a>.
+  In case you can’t see the embedded PDF, you can open it by clicking <a href="{{ site.mediaUrl }}what-we-do/homecoming/2017/Agenda_Homecoming2017_vF.pdf" target="_blank">this link</a>.
 </p>
 
 <h3>Friday:</h3>
 <ul>
-  <li>In the afternoon, there will be several <strong>open lectures</strong>. For a complete overview of topics, times and locations, please check <a href="/media/what-we-do/homecoming/2017/HC2017_OpenLecturesSchedule.pdf" target="_blank">the schedule</a>.</li>
+  <li>In the afternoon, there will be several <strong>open lectures</strong>. For a complete overview of topics, times and locations, please check <a href="{{ site.mediaUrl }}what-we-do/homecoming/2017/HC2017_OpenLecturesSchedule.pdf" target="_blank">the schedule</a>.</li>
   <li>Get your <strong>Welcome Package</strong> in Campus Center Foyer and greet incoming fellow alumni there</li>
   <li>At the <strong>Career Symposium</strong>, organized by the Career Service Center of Jacobs, selected alumni speakers and other company representatives present their companies and participate in a panel discussion. Continue the discussions over some <strong>snacks and drinks</strong> right after the Symposium. Make sure to bring your business cards!</li>
   <li>Alumni-only <strong>Bar Chill Out</strong> in TheOtherSide after the Symposium. Drinks are included in the tickets.</li>
@@ -87,7 +88,7 @@
   <strong>What ticket options are there and what are the prices?</strong>
 </p>
 <p>
-  There are three ticket options: The <strong>basic ticket (15€)</strong> that gives you access and drinks for the Friday night Bar Chill-Out and the Saturday night theme party. The <strong>half-ticket (45 €)</strong> which on top of that includes the Saturday Chill&amp;Grill-BBQ (incl. drinks). And the <strong>full-ticket (75€)</strong> which includes the formal Gala Dinner Saturday evening. For transparency purposes, we would like to make sure you understand the <a href="/media/what-we-do/homecoming/2017/HC2017_TicketCostBreakdown.png" target="_blank">composition of costs of the packages</a>. We are grateful to be partially subsidized by the university for the Gala Dinner so we can offer the full-ticket at a reduced prices.
+  There are three ticket options: The <strong>basic ticket (15€)</strong> that gives you access and drinks for the Friday night Bar Chill-Out and the Saturday night theme party. The <strong>half-ticket (45 €)</strong> which on top of that includes the Saturday Chill&amp;Grill-BBQ (incl. drinks). And the <strong>full-ticket (75€)</strong> which includes the formal Gala Dinner Saturday evening. For transparency purposes, we would like to make sure you understand the <a href="{{ site.mediaUrl }}what-we-do/homecoming/2017/HC2017_TicketCostBreakdown.png" target="_blank">composition of costs of the packages</a>. We are grateful to be partially subsidized by the university for the Gala Dinner so we can offer the full-ticket at a reduced prices.
 </p>
 <p>
   <strong>How can I make donations?</strong>
@@ -137,8 +138,8 @@
   <li>Dates: 22nd – 24th September, 2017</li>
   <li>Registration: Until September 17th, 2017 (full refund only when cancelled before)</li>
   <li>Facebook event: <a href="https://www.facebook.com/events/301778486904583/">https://www.facebook.com/events/301778486904583</Link></li>
-  <li>Accommodation: On-campus housing not available. List of local hotels <a href="/media/what-we-do/homecoming/2017/HC 2017 - Hotels Overview.pdf" target="_blank">here</a>.</li>
-  <li>Open lectures schedules: <a href="/media/what-we-do/homecoming/2017/HC2017_OpenLecturesSchedule.pdf" target="_blank">Link</a></li>
+  <li>Accommodation: On-campus housing not available. List of local hotels <a href="{{ site.mediaUrl }}what-we-do/homecoming/2017/HC 2017 - Hotels Overview.pdf" target="_blank">here</a>.</li>
+  <li>Open lectures schedules: <a href="{{ site.mediaUrl }}what-we-do/homecoming/2017/HC2017_OpenLecturesSchedule.pdf" target="_blank">Link</a></li>
   <li>Career Symposium: <a href="https://www.eventbrite.co.uk/e/jacobs-career-symposium-2017-registration-36051639424">Separate registration necessary</Link></li>
   <li>General Assembly: See separate invitation via email</li>
   <li>Jacobs Games schedule: TBD</li>

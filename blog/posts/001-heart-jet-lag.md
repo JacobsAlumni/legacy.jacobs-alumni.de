@@ -4,7 +4,7 @@
   date: September 16th, 2014
   author: Judith Heptner
   permalink: /blog/heart-jet-lag
-  titleImage: /media/blog/01-heart-jet-lag-title.jpg
+  titleImage: blog/01-heart-jet-lag-title.jpg
   preview: When I started at Jacobs in the fall of 2010, our then President, Joachim Treusch, said a few words in his welcome address that stuck with me throughout my entire time as a student there.
 ---
 

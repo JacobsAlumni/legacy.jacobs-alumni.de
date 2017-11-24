@@ -6,7 +6,7 @@ member: Board member being represented
   <div class="uk-card uk-card-default">
     {% if include.member.photoUrl %}
       <div class="uk-card-media-top square-box">
-        <img style="height: auto; " class="uk-width-1-1 square-content" src="{{include.member.photoUrl}}" alt="{{include.member.name}}" />
+        <img style="height: auto; " class="uk-width-1-1 square-content" src="{{ site.mediaUrl }}{{include.member.photoUrl}}" alt="{{include.member.name}}" />
       </div>
     {% endif %}
     

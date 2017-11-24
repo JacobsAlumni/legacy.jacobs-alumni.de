@@ -6,7 +6,7 @@ article: Page representing the article
     {% if include.article.titleImage %}
     <div class="uk-card-media-top">
        <a href="{{ include.article.url }}">
-        <img class="uk-width-1-1" src="{{ include.article.titleImage }}" alt="{{ include.article.title }}" />
+        <img class="uk-width-1-1" src="{{ site.mediaUrl }}{{ include.article.titleImage }}" alt="{{ include.article.title }}" />
       </Link>
     </div>
     {% endif %}
