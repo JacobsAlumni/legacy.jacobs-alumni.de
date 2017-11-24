@@ -1,5 +1,5 @@
 # JacobsAlumniWebsite
-A Jekyll version of the static parts of the Alumni Website
+A [Jekyll](https://jekyllrb.com) version of the of the Jacobs University Alumni Organisation Website.  
 
 ## Building
 ```

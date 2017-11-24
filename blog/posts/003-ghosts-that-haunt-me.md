@@ -3,9 +3,9 @@
   title: Ghosts that Haunt Me
   date: December 15th, 2014
   author: Omaina Aziz
-  permalink: /blog/ghosts-that-haunt-me
+  permalink: /blog/ghosts-that-haunt-me/
   titleImage: blog/03-ghosts-that-haunt-me-title.jpg
-  preview: 'Moving is hard. You leave behind all you know and are comfortable with, all the people who know your quirks and your history, your favourite coffee place!, and all of this can quickly escalate into a spiral of depression and panic.'
+  preview: Moving is hard. You leave behind all you know and are comfortable with, all the people who know your quirks and your history, your favourite coffee place!, and all of this can quickly escalate into a spiral of depression and panic.
 ---
 
 Moving is hard. You leave behind all you know and are comfortable with, all the people who know your quirks and your history, *your favourite coffee place!*, and all of this can quickly escalate into a spiral of depression and panic. Moving countries is, arguably, even harder. Not only will there be a significant culture shock to deal with, but also there is the added psychological stress. Something I like to call the “Global Positioning Syndrome”. Being in another country adds an element of distance from your comfort zone that, for me, is not equivalent to moving to a new city.

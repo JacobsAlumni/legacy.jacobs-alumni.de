@@ -1,14 +1,20 @@
+# Title of the Site
 title: Jacobs Alumni Association
-encoding: utf-8
 
+# general meta data
 description: The Jacobs Alumni Association is the growing network of former Jacobs University students and friends.
 keywords: Jacobs Alumni Association, Jacobs University Bremen, Jacobs University, Alumni Association, Jacobs, Alumni, Association, Bremen
 
+# We support UTF-8, for all the unicode stuff
+encoding: utf-8
+
+# Exlude all the README.md files -- they are for documentation
 exclude:
     - '*/README.md'
     - '.travis.yml'
     - '.deploy'
 
+# We have several automatically generated pages. 
 collections:
   - newsletter
   - generation_fund
