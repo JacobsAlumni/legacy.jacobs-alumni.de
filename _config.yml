@@ -6,6 +6,8 @@ keywords: Jacobs Alumni Association, Jacobs University Bremen, Jacobs University
 
 exclude:
     - '*/README.md'
+    - '.travis.yml'
+    - '.deploy'
 
 collections:
   - newsletter
@@ -14,17 +16,17 @@ collections:
 
 # URL to use for media
 mediaUrl: /media/
-      
+
 # Settings for compressing everything
 compress_html:
   clippings: []
   comments: ["<!-- ", " -->"]
 
-# default values -- the one for all **must** be first 
+# default values -- the one for all **must** be first
 defaults:
   -
     scope:
-      path: "" 
+      path: ""
     values:
       layout: application
       menu_hidden: false
