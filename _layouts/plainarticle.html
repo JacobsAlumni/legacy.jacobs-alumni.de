@@ -7,9 +7,11 @@ title: article title
 {% endcomment %}
 
 <article class="uk-article">
+  {% if page.notitle %}{% else %}
   <h1 class="uk-article-title">
     {{ page.title }}
   </h1>
+  {% endif %}
 
   {{ content }}
 </article>

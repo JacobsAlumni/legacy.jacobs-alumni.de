@@ -1,8 +1,7 @@
 ---
 layout: plainarticle
-title: Our mission - For the Association and for Alumni
-permalink: '/mission/'
-titleImage: mission.png
+title: Home
+notitle: true
 ---
 
 <figure class="uk-width-1-1">
@@ -28,7 +27,6 @@ titleImage: mission.png
 * We are committed to creating *benefits* and *opportunities* for our Alumni. Both directly by our services and events and indirectly by the connections we enable. 
 * We are deeply connected with Jacobs. We do not only want to see our alumni *thrive* but also our alma mater. Thriving is living the Jacobs spirit. Lifelong. Globally.
 
-
 ### Our vision - Stewards of the Jacobs Spirit
 
 Jacobs University has been through turbulent times. 
@@ -38,3 +36,8 @@ With our increasingly stronger voice, we want to actively shape the University a
 We are Jacobs - Join us!
 
 [Get in touch](mailto:board@jacobs-alumni.de) and [sign-up](/join/) for the Association *now!*
+
+
+<figure>
+  <img src="/media/logo.jpg" />
+</figure>
