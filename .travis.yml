@@ -5,6 +5,10 @@ rvm:
 
 sudo: false
 
+# do not clone the entire history -- no old versions are needed
+git:
+  depth: 1
+
 # but we need a few packages
 addons:
   apt:
