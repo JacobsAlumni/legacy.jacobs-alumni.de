@@ -5,7 +5,7 @@
   author: Suna Turhan
   permalink: /blog/ignoring-is-bliss/
   titleImage: blog/10-ignoring-is-bliss-title.jpg
-  preview: An essential technique in time management is one which people like you and me risk being scolded for: ignoring. A few weeks ago, I read a very interesting article in the Harvard Business Review on how “The Most Productive People Know Who to Ignore” by Ed Batista.
+  preview: "An essential technique in time management is one which people like you and me risk being scolded for: ignoring. A few weeks ago, I read a very interesting article in the Harvard Business Review on how “The Most Productive People Know Who to Ignore” by Ed Batista."
 ---
 
 An essential technique in time management is one which people like you and me risk being scolded for: ignoring.
