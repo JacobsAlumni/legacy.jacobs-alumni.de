@@ -1,7 +1,7 @@
 -
   name: Anne Valtink
   role: President
-  photoUrl: who-we-are/board/Anne_Valtink-198x300.jpg
+  photoUrl: who-we-are/board/Anne_Valtink.jpg
   meta: 
     email: avaltink@jacobs-alumni.de
   description: 
@@ -9,7 +9,7 @@
 -
   name: Stefan Rustler
   role: Vice President
-  photoUrl: who-we-are/board/StefanRustler-233x300.jpg
+  photoUrl: who-we-are/board/Stefan_Rustler.jpg
   meta:
     email: srustler@jacobs-alumni.de
     facebook: https://www.facebook.com/stefan.rustler
@@ -17,21 +17,19 @@
     linkedin: https://www.linkedin.com/pub/stefan-rustler/35/b61/38a
   description: 
     Stefan (’12) has been involved with the Alumni Association since his election as Class Representative 2012. After working on the regional development of the Association as well as head-organizing the annual Homecomings, he took up the role as Vice-President. Stefan graduated from Jacobs with a BSc in Physics and finished his MSc in Physics at the Chair of Entrepreneurial Risks at ETH Zurich. Currently, he is working for Accenture Digital in Zurich in the field of Big Data Analytics. 
+# TODO: Răzvan Barabaș email, facebook, twitter, linked in 
 -
   name: Răzvan Barabaș
   role: Secretary
-  photoUrl: who-we-are/board/16c6116.jpg
+  photoUrl: who-we-are/board/Razvan_Barabas.jpg
   meta:
-    email: srustler@jacobs-alumni.de
-    facebook: https://www.facebook.com/stefan.rustler
-    twitter: https://twitter.com/RustlerStefan
-    linkedin: https://www.linkedin.com/pub/stefan-rustler/35/b61/38a
+    email: rbarbas@jacobs-alumni.de
   description:
     Fresh out of Jacobs, Razvan (‘16) is the youngest member of the Board. On top of keeping everyone up to date with campus gossip, he is in charge of implementing project management solutions and keeping everyone on track with their tasks. He’s also responsible for meeting management, organizing elections, and the General Assembly during Homecoming. As part of his gap year, he is currently working in Luxembourg for Amazon and is flirting with the idea of heading back to Germany for his Master’s degree. Razvan graduated with a BA in Global Economics and Management and dedicated his years at Jacobs to rowing, BEaMS and JSC. 
 -
   name: Max Lohmann
   role: Event Management
-  photoUrl: who-we-are/board/Max_Lohmann-300x205.png
+  photoUrl: who-we-are/board/Max_Lohmann.jpg
   meta:
     email: mlohmann@jacobs-alumni.de
   description: 
@@ -39,7 +37,7 @@
 - 
   name: Elena Isac
   role: Special Projects
-  photoUrl: who-we-are/board/alumni_board_ElenaIsac1-e1428571775592-300x199.jpg
+  photoUrl: who-we-are/board/Elena_Isac.jpg
   meta:
     email: eisac@jacobs-alumni.de
     facebook: http://facebook.com/ele.isac
@@ -51,7 +49,7 @@
 -
   name: Lida-Maria Lottko
   role: PR and Communications
-  photoUrl: who-we-are/board/Profile-picture-300x200.jpg
+  photoUrl: who-we-are/board/Lida_Lottko.jpg
   meta:
     email: llottko@jacobs-alumni.de
     facebook: https://www.facebook.com/lidamaria.lottko
@@ -61,7 +59,7 @@
 - 
   name: Anna-Lena Schindl
   role: Network Development
-  photoUrl: who-we-are/board/Anna-LenaSchindl-242x300.jpg
+  photoUrl: who-we-are/board/Anna_Lena_Schindl.jpg
   meta:
     email: aschindl@jacobs-alumni.de
     facebook: https://www.facebook.com/annalena.schindl
@@ -72,7 +70,7 @@
 -
   name: Stefan Kuzmanovski
   role: Finances
-  photoUrl: who-we-are/board/stefan-linkedin-pic-300x300.jpg
+  photoUrl: who-we-are/board/Stefan_Kuzmanovski.jpg
   meta:
     email: skuzmanovski@jacobs-alumni.de
     facebook: https://www.facebook.com/stefan.kuzmanovski92
@@ -82,7 +80,7 @@
 -
   name: Tom Wiesing
   role: Information Technology
-  photoUrl: who-we-are/board/tom.jpg
+  photoUrl: who-we-are/board/Tom_Wiesing.jpg
   meta:
     email: twiesing@jacobs-alumni.de
     facebook: https://www.facebook.com/tom.wiesing
@@ -93,9 +91,10 @@
 
     As Assessor for Information Technology, he will focus on coding and supporting all IT systems of the Alumni, supported by a team of volunteer coders. Having previously maintained services like JPeople, it is particularly important to him that these remain useful and accessible to the members of the association. 
 
+# TODO: Franziska contact details
 - name: Franziska Phole
   role: Member Management
-  photoUrl: who-we-are/board/franziska.jpg
+  photoUrl: who-we-are/board/Franziska_Pohle.jpg
   meta:
     email: fpohle@jacobs-alumni.de
   description:
