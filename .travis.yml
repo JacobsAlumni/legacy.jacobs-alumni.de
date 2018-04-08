@@ -40,7 +40,7 @@ script:
   - jekyll build -t _site
 
   # rsync everything from _site/
-  - cd _site && rsync -rv -e "ssh server.jacobs-alumni.de -p 40001" --checksum ./ root@server.jacobs-alumni.de:/root/data/ --delete
+  - cd _site && rsync -rv -e "ssh -p 40001" --checksum ./ root@server.jacobs-alumni.de:/root/data/ --delete
 
 branches:
   only:
