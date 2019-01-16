@@ -5,7 +5,7 @@ notitle: true
 ---
 
 <figure class="uk-width-1-1">
-  <img class="uk-width-1-1" src="{{ site.mediaUrl }}mission.png" />
+  <img class="uk-width-1-1" src="{{ site.mediaUrl }}people.png" />
 </figure>
 
 <div class="uk-clearfix">
