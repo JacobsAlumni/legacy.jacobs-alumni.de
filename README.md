@@ -1,3 +1,5 @@
+__This version of the website is no longer maintained and kept for archiving purposes only. Please see the [current version](https://github.com/JacobsAlumni/jacobs-alumni.de).__
+
 # JacobsAlumniWebsite
 A [Jekyll](https://jekyllrb.com) version of the of the Jacobs University Alumni Organisation Website.  
 
